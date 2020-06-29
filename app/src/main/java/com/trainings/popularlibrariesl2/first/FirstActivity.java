@@ -1,10 +1,12 @@
-package com.trainings.popularlibrariesl2;
+package com.trainings.popularlibrariesl2.first;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.trainings.popularlibrariesl2.R;
+
+public class FirstActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
